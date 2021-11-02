@@ -1,0 +1,4 @@
+name: django-auth
+dependencies:
+  - python=3.7
+  - django
